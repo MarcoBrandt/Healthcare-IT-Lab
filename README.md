@@ -1,4 +1,4 @@
-# Healthcare IT & Medical Systems Lab — v2.1
+# Healthcare IT & Medical Systems Lab — v3.0
 
 **[Open the live Healthcare IT Lab →](https://marcobrandt.github.io/Healthcare-IT-Lab/)**
 
@@ -19,6 +19,12 @@ Independent professional portfolio by Marco Brandt, software specialist working 
 |  |  | 16 | Capacity & monitoring |
 |  |  | 17 | Knowledge base |
 
+### Version 3.0 — Clinical edition
+- Apple-inspired bento overview and light clinical workspace.
+- Interactive 3D-projected hospital cutaway with four selectable departments, rotation, zoom, reset and top-down floor plan. Built from local SVG geometry; no external 3D library.
+- Room-specific shortcuts to all 17 learning exercises, searchable module catalogue and the same interactive model in System Architecture.
+- Preserves all 18 existing numbered modules and adds seven deterministic geometry and navigation checks.
+
 ### Version 2.1
 - Consistent module numbering (00–17) in navigation, module headings and overview cards.
 
@@ -35,7 +41,7 @@ All data and endpoints are synthetic. No real clinical connections, patient info
 
 ## Run locally
 
-Open `index.html` alongside `advanced.js` and `advanced.css` in a modern browser. No dependencies, build step, API keys or backend are required. GitHub Pages serves the root directory from the main branch.
+Open `index.html` alongside `advanced.js`, `advanced.css`, `hospital.js` and `clinical.css` in a modern browser. No dependencies, build step, API keys or backend are required. GitHub Pages serves the root directory from the main branch.
 
 ## References
 - [DICOM standard](https://www.dicomstandard.org/current)
