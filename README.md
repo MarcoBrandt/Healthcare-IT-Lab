@@ -1,4 +1,4 @@
-# Healthcare IT & Medical Systems Lab — v2.0
+# Healthcare IT & Medical Systems Lab — v2.1
 
 **[Open the live Healthcare IT Lab →](https://marcobrandt.github.io/Healthcare-IT-Lab/)**
 
@@ -6,18 +6,21 @@ Independent professional portfolio by Marco Brandt, software specialist working 
 
 ## Interactive modules
 
-| Core lab | Advanced engineering |
-| --- | --- |
-| Overview | System architecture |
-| Imaging workflow | DICOM network lab |
-| HL7 message lab | MWL query lab |
-| DICOM explorer | HL7 ACK & mapping |
-| Troubleshooting (8 scenarios) | FHIR R4 resource lab |
-| Medical device security | Study reconciliation |
-| Operations dashboard | Incident command |
-| Process development | Risk register |
-| | Capacity & monitoring |
-| | Knowledge base |
+| ID | Core lab | ID | Advanced engineering |
+| --- | --- | --- | --- |
+| 00 | Overview | 08 | System architecture |
+| 01 | Imaging workflow | 09 | DICOM network lab |
+| 02 | HL7 message lab | 10 | MWL query lab |
+| 03 | DICOM explorer | 11 | HL7 ACK & mapping |
+| 04 | Troubleshooting (8 scenarios) | 12 | FHIR R4 resource lab |
+| 05 | Medical device security | 13 | Study reconciliation |
+| 06 | Operations dashboard | 14 | Incident command |
+| 07 | Process development | 15 | Risk register |
+|  |  | 16 | Capacity & monitoring |
+|  |  | 17 | Knowledge base |
+
+### Version 2.1
+- Consistent module numbering (00–17) in navigation, module headings and overview cards.
 
 ### Version 2.0
 - 18 modules, including 10 advanced modules.
