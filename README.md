@@ -1,5 +1,7 @@
 # Healthcare IT & Medical Systems Lab
 
+**[Open the Healthcare IT & Medical Systems Lab →](https://marcobrandt.github.io/Healthcare-IT-Lab/)**
+
 An independent educational portfolio by Marco Brandt. Open `index.html` in a browser or publish the directory as a static GitHub Pages site. No dependencies, server, or API keys required.
 
 ## Modules
